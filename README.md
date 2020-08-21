@@ -1,4 +1,4 @@
-### 大家好 👋, 欢迎来到我的 Github
+### 你好 👋, 欢迎来到我的 Github
 - 🌱 目前是一名 Android 开发者
 - ⚡ Fun fact: 主要使用 Java & Kotlin Continuous，同时学习  Flutter & Dart， android 打杂
 ### ✨ blog：

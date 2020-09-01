@@ -1,11 +1,11 @@
 ### 你好 👋, 欢迎来到我的 Github
 <p align="left">
   <a href="https://github.com/maoqitian">
-    <img src="https://github-readme-stats.vercel.app/api?username=maoqitian&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=maoqitian&show_icons=true&line_height=21&show_icons=true&theme=vue" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/maoqitian">
     <img src="https://komarev.com/ghpvc/?username=maoqitian&color=brightgreen&label=👁%20Views" />
   </a>  

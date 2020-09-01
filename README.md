@@ -1,4 +1,15 @@
 ### 你好 👋, 欢迎来到我的 Github
+<p align="center">
+  <a href="https://github.com/maoqitian">
+    <img src="https://github-readme-stats.vercel.app/api?username=maoqitian&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maoqitian">
+    <img src="https://komarev.com/ghpvc/?username=maoqitian&color=brightgreen&label=👁%20Views" />
+  </a>  
+</p>
 - 🌱 目前是一名 Android 开发者
 - ⚡ Fun fact: 主要使用 Java & Kotlin Continuous，同时学习  Flutter & Dart， android 打杂
 ### ✨ blog：

@@ -1,4 +1,5 @@
 ### 你好 👋, 欢迎来到我的 Github
+![maoqitian github stats](https://github-readme-stats.vercel.app/api?username=maoqitian&show_icons=true)
 <p align="left">
   <a href="https://github.com/maoqitian">
     <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=maoqitian&show_icons=true&line_height=21&show_icons=true&theme=vue" />

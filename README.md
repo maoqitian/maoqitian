@@ -1,5 +1,5 @@
 ### 你好 👋, 欢迎来到我的 Github
-![maoqitian github stats](https://github-readme-stats.vercel.app/api?username=maoqitian&show_icons=true)
+![maoqitian github stats](https://github-readme-stats.vercel.app/api?username=maoqitian&show_icons=true&theme=radical)
 
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=maoqitian&layout=compact&card_width=445)
 <p align="left">
